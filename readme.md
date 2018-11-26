@@ -79,6 +79,7 @@
 >>[“逃犯克星”一举成名 依图科技估值已超150亿](http://finance.sina.com.cn/stock/newstock/2018-06-14/doc-ihcyszrz2722912.shtml)<br>
 >>[当安防遇到AI，当科技遇到匠心--访依图科技人工智能+安全事业部副总裁罗忆](http://news.21csp.com.cn/c29/201707/11360655.html)<br>
 
+>>[商汤科技VS旷视科技VS依图科技](https://www.jianshu.com/p/b132bdd9dff1)<br>
 
 [地平线]
 
