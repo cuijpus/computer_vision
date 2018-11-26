@@ -26,24 +26,25 @@
 
 [旷视科技](https://www.megvii.com/)<br>
 
->>[百科](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E6%97%B7%E8%A7%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19451290?fr=aladdin)<br>
 >>[旷视科技创始人印奇个人简历及背景](http://m.elecfans.com/article/667325.html)<br>
 >>[唐文斌,旷视科技联合创始人兼CTO](https://baike.baidu.com/item/%E5%94%90%E6%96%87%E6%96%8C/14692119)<br>
 >>[孙剑,旷视科技首席科学家](https://baike.baidu.com/item/%E5%AD%99%E5%89%91/19814032?fr=aladdin)<br>
+>>[姚期智院士加盟旷视科技Face++学术委员会并担任首席顾问，共同探讨AI的本质创新（上） ](https://www.leiphone.com/news/201711/DJxw36UFyMhQHAeQ.html)<br>
 >>[旷视科技崛起，迸发科创力量的北京“独角兽”](https://baijiahao.baidu.com/s?id=1617734861476906045&wfr=spider&for=pc)<br>
 >>[旷视联合创始人唐文斌：AI就是让机器做人不愿做的事](http://tech.sina.com.cn/it/2018-11-23/doc-ihmutuec2940866.shtml)<br>
 >>[旷视科技敖翔：用AI赋予大数据风控一双慧眼](http://www.cet.com.cn/itpd/sdyd/2098557.shtml)<br>
 >>[旷视科技登陆第75届中国教育装备展 全场景智慧创新铸行业未来](https://tech.china.com/article/20181122/kejiyuan1108218854.html)<br>
 >>[旷视科技获6亿美金融资，中国CV四兽四分之三已入阿里麾下！](http://www.sohu.com/a/242984541_100039855)<br>
+>>[姚期智院士到访旷视南京研究院：要做世界领先的智能技术](https://www.sohu.com/a/217375452_418390)<br>
 
 [核心技术](https://www.faceplusplus.com.cn/)：<br>
 动态人脸识别,在线/离线活体检测,超大人像库实时检索,证件识别,行人检测、轨迹分析
 
+[云从科技]
 
 
 [依图科技]
 
-[云从科技]
 
 [地平线]
 
