@@ -16,10 +16,12 @@
 [旷视科技](https://www.megvii.com/)<br>
 
 >>[百科](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E6%97%B7%E8%A7%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19451290?fr=aladdin)<br>
+>>[旷视科技创始人印奇个人简历及背景](http://m.elecfans.com/article/667325.html]<br>
 >>[旷视科技崛起，迸发科创力量的北京“独角兽”](https://baijiahao.baidu.com/s?id=1617734861476906045&wfr=spider&for=pc)<br>
 >>[旷视联合创始人唐文斌：AI就是让机器做人不愿做的事](http://tech.sina.com.cn/it/2018-11-23/doc-ihmutuec2940866.shtml)<br>
 >>[旷视科技敖翔：用AI赋予大数据风控一双慧眼](http://www.cet.com.cn/itpd/sdyd/2098557.shtml)<br>
 >>[旷视科技登陆第75届中国教育装备展 全场景智慧创新铸行业未来](https://tech.china.com/article/20181122/kejiyuan1108218854.html)<br>
+>>[旷视科技获6亿美金融资，中国CV四兽四分之三已入阿里麾下！](http://www.sohu.com/a/242984541_100039855)<br>
 
 [核心技术](https://www.faceplusplus.com.cn/)：<br>
 动态人脸识别,在线/离线活体检测,超大人像库实时检索,证件识别,行人检测、轨迹分析
