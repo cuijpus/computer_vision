@@ -41,6 +41,19 @@
 动态人脸识别,在线/离线活体检测,超大人像库实时检索,证件识别,行人检测、轨迹分析
 
 [云从科技]
+云从科技（广州）拥有自主知识产权核心算法，是人脸识别国家标准起草与制定企业。<br>
+专注：银行，公安，民航 <br>
+
+>>[广州云从信息科技有限公司](https://baike.baidu.com/item/%E5%B9%BF%E5%B7%9E%E4%BA%91%E4%BB%8E%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/17382284)<br>
+>>[云从科技创始人周曦：刷分的人脸识别没有任何意义](https://www.sohu.com/a/121666798_465975)<br>
+>>[云从科技CEO周曦：AI，不止人脸识别这么简单](https://tech.sina.com.cn/roll/2018-10-13/doc-ifxeuwws3643574.shtml)<br>
+>>[云从科技——短短三年 中国AI领域“独角兽”是怎样炼成的？](http://www.qianjia.com/html/2018-04/23_290035.html)<br>
+>>[云从科技获超过10亿元B轮融资，“AI四小龙”竞争进入下半场](https://baijiahao.baidu.com/s?id=1613902851558220738&wfr=spider&for=pc)<br>
+>>[云从科技温浩：人工智能赋能行业可以分为五步走](https://baijiahao.baidu.com/s?id=1618074089912160803&wfr=spider&for=pc)<br>
+>>[云从科技联合创始人：我们乘着AI翅膀IAB东风落子南沙](http://www.sohu.com/a/230669112_667991)<br>
+>>[云从科技联合创始人姚志强：三年化身“独角兽”，我们如何在红海中寻找蓝海 | ](https://baijiahao.baidu.com/s?id=1606299964604586370&wfr=spider&for=pc)<br>
+>>[云从科技与公安部重点实验室成立联合研究中心](http://www.afzhan.com/news/detail/67924.html)<br>
+>>[云从科技与中国工商银行达成战略合作 共建金融科技创新平台](https://baijiahao.baidu.com/s?id=1617100006375540717&wfr=spider&for=pc)<br>
 
 
 [依图科技]
