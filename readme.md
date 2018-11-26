@@ -80,6 +80,7 @@
 >>[当安防遇到AI，当科技遇到匠心--访依图科技人工智能+安全事业部副总裁罗忆](http://news.21csp.com.cn/c29/201707/11360655.html)<br>
 
 >>[商汤科技VS旷视科技VS依图科技](https://www.jianshu.com/p/b132bdd9dff1)<br>
+>>[旷视、商汤、格灵深瞳……他们曾这样熬过了AI寒冬](http://news.yzz.cn/eyes/text/201709-1203055.shtml)<br>
 
 [地平线]
 
