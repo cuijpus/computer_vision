@@ -13,7 +13,10 @@
 
 
 
-[旷视科技]
+[旷视科技](https://www.megvii.com/)<br>
+
+>>[百科](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E6%97%B7%E8%A7%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19451290?fr=aladdin)<br>
+
 
 [依图科技]
 
