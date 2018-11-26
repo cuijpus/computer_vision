@@ -17,6 +17,10 @@
 
 >>[百科](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E6%97%B7%E8%A7%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19451290?fr=aladdin)<br>
 
+[核心技术](https://www.faceplusplus.com.cn/)：<br>
+动态人脸识别,在线/离线活体检测,超大人像库实时检索,证件识别,行人检测、轨迹分析
+
+
 
 [依图科技]
 
