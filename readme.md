@@ -16,7 +16,7 @@
 [旷视科技](https://www.megvii.com/)<br>
 
 >>[百科](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E6%97%B7%E8%A7%86%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/19451290?fr=aladdin)<br>
->>[旷视科技创始人印奇个人简历及背景](http://m.elecfans.com/article/667325.html]<br>
+>>[旷视科技创始人印奇个人简历及背景](http://m.elecfans.com/article/667325.html)<br>
 >>[旷视科技崛起，迸发科创力量的北京“独角兽”](https://baijiahao.baidu.com/s?id=1617734861476906045&wfr=spider&for=pc)<br>
 >>[旷视联合创始人唐文斌：AI就是让机器做人不愿做的事](http://tech.sina.com.cn/it/2018-11-23/doc-ihmutuec2940866.shtml)<br>
 >>[旷视科技敖翔：用AI赋予大数据风控一双慧眼](http://www.cet.com.cn/itpd/sdyd/2098557.shtml)<br>
