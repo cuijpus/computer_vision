@@ -1,6 +1,13 @@
 
 # 业内动向
 
+European AI Landscape:<br>
+http://projectjuno.ai/content/ProjectJunoAI_EuropeanMachineIntelligenceLandscape.pdf <br>
+
+Israel's AI landscape:
+![Israel's AI landscape](https://cdn-images-1.medium.com/max/2000/1*4k2bACH0ZNBy6CKwbSpxQA.png)<br>
+
+
 # 大牛公司
 
 ![中国人工智能全景图](http://5b0988e595225.cdn.sohucs.com/images/20180101/633ccfaf81b347adae03489fd4807b3a.jpeg)<br>
@@ -74,7 +81,7 @@
 >>[依图科技联合创始人、CEO朱珑：“凝聚一些人，做世界级的创新工作](https://baike.baidu.com/item/%E6%9C%B1%E7%8F%91/16528672)<br>
 >>[追赶商汤，依图科技再宣布完成2亿美元C+轮融资！](https://www.iyiou.com/p/66651.html)<br>
 >>[“逃犯克星”一举成名 依图科技估值已超150亿](http://finance.sina.com.cn/stock/newstock/2018-06-14/doc-ihcyszrz2722912.shtml)<br>
-
+>>[当安防遇到AI，当科技遇到匠心--访依图科技人工智能+安全事业部副总裁罗忆](http://news.21csp.com.cn/c29/201707/11360655.html)<br>
 
 
 [地平线]
