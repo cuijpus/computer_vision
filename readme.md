@@ -2,6 +2,9 @@
 # 业内动向
 
 # 大牛公司
+
+![中国人工智能全景图](http://5b0988e595225.cdn.sohucs.com/images/20180101/633ccfaf81b347adae03489fd4807b3a.jpeg)<br>
+
 [商汤科技](https://www.sensetime.com/)<br>
 
 强调“坚持原创”，是因为商汤的核心技术均为自主研发，我们相信只有原创的技术才具有持续更新、持续发展的能力，才能创造真正的价值。
@@ -51,6 +54,8 @@
 >>[云从科技周曦：AI落地关键要解决问题](https://tech.sina.com.cn/roll/2018-10-13/doc-ifxeuwws3643574.shtml)<br>
 >>[云从科技——短短三年 中国AI领域“独角兽”是怎样炼成的？](http://www.qianjia.com/html/2018-04/23_290035.html)<br>
 >>[云从科技获超过10亿元B轮融资，“AI四小龙”竞争进入下半场](https://baijiahao.baidu.com/s?id=1613902851558220738&wfr=spider&for=pc)<br>
+>>[揭秘云从科技：获超10亿元融资，AI “国家队”的逆袭之路](http://www.sohu.com/a/258136135_116132)<br>
+>>[专访云从科技周曦：一支”国家队”的独特”战法”](http://tech.163.com/17/0310/07/CF5BFCLB00098GJ5.html)<br>
 >>[云从科技温浩：人工智能赋能行业可以分为五步走](https://baijiahao.baidu.com/s?id=1618074089912160803&wfr=spider&for=pc)<br>
 >>[云从科技联合创始人：我们乘着AI翅膀IAB东风落子南沙](http://www.sohu.com/a/230669112_667991)<br>
 >>[云从科技联合创始人姚志强：三年化身“独角兽”，我们如何在红海中寻找蓝海 | ](https://baijiahao.baidu.com/s?id=1606299964604586370&wfr=spider&for=pc)<br>
@@ -58,7 +63,18 @@
 >>[云从科技与中国工商银行达成战略合作 共建金融科技创新平台](https://baijiahao.baidu.com/s?id=1617100006375540717&wfr=spider&for=pc)<br>
 
 
-[依图科技]
+[依图科技](http://www.yitutech.com/)<br>
+
+上海依图网络科技有限公司成立于2012年9月，由朱珑、林晨曦共同创立。 
+依图科技人工智能技术的应用领域包括：智能安防、依图医疗、智慧金融、智慧城市、智能硬件等。<br>
+聚焦：安防，金融，医疗。<br>
+
+>>[上海依图网络科技有限公司](https://baike.baidu.com/item/%E4%B8%8A%E6%B5%B7%E4%BE%9D%E5%9B%BE%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/20057496?fr=aladdin)<br>
+>>[朱珑,依图科技联合创始人兼CEO](https://baike.baidu.com/item/%E6%9C%B1%E7%8F%91/16528672)<br>
+>>[依图科技联合创始人、CEO朱珑：“凝聚一些人，做世界级的创新工作](https://baike.baidu.com/item/%E6%9C%B1%E7%8F%91/16528672)<br>
+>>[追赶商汤，依图科技再宣布完成2亿美元C+轮融资！](https://www.iyiou.com/p/66651.html)<br>
+>>[“逃犯克星”一举成名 依图科技估值已超150亿](http://finance.sina.com.cn/stock/newstock/2018-06-14/doc-ihcyszrz2722912.shtml)<br>
+
 
 
 [地平线]
