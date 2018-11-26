@@ -14,6 +14,7 @@
 >>[商汤科技，这些年做了哪些布局？](http://tech.qq.com/a/20180409/019200.htm)<br>
 >>[估值70亿美元的商汤科技 到底哪些技术？](https://baijiahao.baidu.com/s?id=1611922863264650273&wfr=spider&for=pc)<br>
 >>[AI成长路上，商汤科技还有哪些烦恼？](https://baijiahao.baidu.com/s?id=1616094280722951682&wfr=spider&for=pc)<br>
+>>[商汤科技联合创始人、副总裁杨帆：视觉 AI 技术落地挑战不断，五个维度判断一个行业是否具有做 AI 场景的价值](https://www.sohu.com/a/205851768_256833)<br>
 >>[“中国科技第一展”深圳揭幕 商汤科技多项原创技术引发关注](http://www.sohu.com/a/275877990_100169358)<br>
 >>[商汤科技在深圳落地人工智能教育试点学校](https://baijiahao.baidu.com/s?id=1617355207451265162&wfr=spider&for=pc)<br>
 
