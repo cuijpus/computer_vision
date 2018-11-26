@@ -1,14 +1,10 @@
 
 # 业内动向
 
-European AI Landscape:<br>
-http://projectjuno.ai/content/ProjectJunoAI_EuropeanMachineIntelligenceLandscape.pdf <br>
-
-Israel's AI landscape:
-![Israel's AI landscape](https://cdn-images-1.medium.com/max/2000/1*4k2bACH0ZNBy6CKwbSpxQA.png)<br>
 
 
-# 大牛公司
+
+# 国内CV明星公司
 
 ![中国人工智能全景图](http://5b0988e595225.cdn.sohucs.com/images/20180101/633ccfaf81b347adae03489fd4807b3a.jpeg)<br>
 
