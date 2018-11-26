@@ -8,6 +8,8 @@
 
 强调“让AI引领人类进步”，是因为人工智能是人类智能的延伸，研究人工智能的最终目的是造福人类，我们希望通过对人工智能技术——特别是对计算机视觉和深度学习技术的研究和应用，增强人类视觉，提高生产效率，为人们带来便捷；激发人类的创造力，为人们带来快乐、鼓舞和激励。
 
+>>[汤晓鸥：商汤科技创始人](https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa)<br>
+>>[徐立:商汤科技联合创始人、CEO](https://baike.baidu.com/item/%E5%BE%90%E7%AB%8B/22031892?fr=aladdin)<br>
 >>[商汤科技创始人汤晓鸥：商汤不是烧钱的公司，做第一个吃“苹果”的人](https://baijiahao.baidu.com/s?id=1598696266312231564&wfr=spider&for=pc)<br>
 >>[商汤科技，这些年做了哪些布局？](http://tech.qq.com/a/20180409/019200.htm)<br>
 >>[估值70亿美元的商汤科技 到底哪些技术？](https://baijiahao.baidu.com/s?id=1611922863264650273&wfr=spider&for=pc)<br>
@@ -45,6 +47,8 @@
 
 
 # 学术大牛
+>>[汤晓鸥：商汤科技创始人](https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa)<br>
+>>[徐立:商汤科技联合创始人、CEO](https://baike.baidu.com/item/%E5%BE%90%E7%AB%8B/22031892?fr=aladdin)<br>
 
 # 基础技术
 
