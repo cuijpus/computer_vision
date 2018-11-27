@@ -8,6 +8,9 @@
 
 ![中国人工智能全景图](http://5b0988e595225.cdn.sohucs.com/images/20180101/633ccfaf81b347adae03489fd4807b3a.jpeg)<br>
 
+[2018中国计算机视觉AI公司TOP15排行榜](http://www.acnews.cn/xinwen/20180720333.html)<br>
+！[2018中国计算机视觉AI公司TOP15排行榜](http://www.huaxiatop.com/uploads/allimg/180730/1-1PI0145Z4500.jpg)<br>
+
 [商汤科技](https://www.sensetime.com/)<br>
 
 强调“坚持原创”，是因为商汤的核心技术均为自主研发，我们相信只有原创的技术才具有持续更新、持续发展的能力，才能创造真正的价值。
@@ -92,3 +95,6 @@
 
 # 基础技术
 
+[10本计算机视觉必读经典图书，入门篇 + 提升篇](https://baijiahao.baidu.com/s?id=1591719485603660758&wfr=spider&for=pc)<br>
+[入门计算机视觉](http://baijiahao.baidu.com/s?id=1585312897491142760&wfr=spider&for=pc)<br>
+[计算机图像（视觉）处理培训](http://www.zpedu.com/JQActives298.html)<br>
