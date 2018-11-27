@@ -9,7 +9,7 @@
 ![中国人工智能全景图](http://5b0988e595225.cdn.sohucs.com/images/20180101/633ccfaf81b347adae03489fd4807b3a.jpeg)<br>
 
 [2018中国计算机视觉AI公司TOP15排行榜](http://www.acnews.cn/xinwen/20180720333.html)<br>
-！[2018中国计算机视觉AI公司TOP15排行榜](http://www.huaxiatop.com/uploads/allimg/180730/1-1PI0145Z4500.jpg)<br>
+![2018中国计算机视觉AI公司TOP15排行榜](http://www.huaxiatop.com/uploads/allimg/180730/1-1PI0145Z4500.jpg)<br>
 
 [商汤科技](https://www.sensetime.com/)<br>
 
