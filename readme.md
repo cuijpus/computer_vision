@@ -105,6 +105,11 @@
 [思必驰|专注人性化的智能语音交互技术](http://www.aispeech.com/)<br>
 专注智能硬件的自然语言交互.<br>
 近两年思必驰市场领域拓展较快，其中车载后装市场占有率第一，在智能车载后装市场占有率约达60%，智能后视镜领域达70%，智能HUD领域达80%。同时，在智能家居和机器人领域已经取得了比较广泛的合作。数亿用户通过思必驰自然语言交互，实现与智能家居、车载、智能机器人等终端的互动交流。 <br>
+思必驰融资情况：<br>
+2012年，完成数千万人民币首轮融资；<br>
+2016年初，完成近 2 亿人民币第二轮融资；<br>
+2016年9月，完成第三轮融资，融资金额及资方暂未对外公布。<br>
+2018年6月，完成D轮5亿元融资<br>
 
 >>[苏州思必驰信息科技有限公司](https://baike.baidu.com/item/%E8%8B%8F%E5%B7%9E%E6%80%9D%E5%BF%85%E9%A9%B0%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/9357898?fr=aladdin)<br>
 >>[产品](http://www.aispeech.com/index.php?m=content&c=index&a=lists&catid=26)<br>
@@ -112,6 +117,20 @@
 >>[DUI平台](https://www.dui.ai/)<br>
 2017年9月7日，DUI平台在北京正式发布。<br>
 2017.8.27 [思必驰-上海交大人工智能研究院在苏揭牌](http://www.aispeech.com/index.php?m=content&c=index&a=show&catid=22&id=263)<br>
+
+
+[云知声](http://www.unisound.com/)<br>
+专注于物联网人工智能：智能家居，智能车载，智慧医疗，智能教育, 行业机器人，智能电话机器人<br>
+云知声融资情况：<br>
+2013 年 6 月：完成 A 轮一亿元融资；<br>
+2014 年 12 月：完成五千万美元 B 轮融资；<br>
+2015 年 12 月：完成数千万美金 B+ 轮融资；<br>
+2017 年 08 月：完成近 3 亿元 C 轮融资。<br>
+2018年5月：完成C轮融资1亿美金。<br>
+
+>>[北京云知声信息技术有限公司](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%91%E7%9F%A5%E5%A3%B0%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/5876260?fr=aladdin)<br>
+>>[云端芯生态](http://www.unisound.com/assets/img/index/index-cloud.svg)<br>
+>>[开放平台](http://dev.hivoice.cn/)<br>
 
 
 # 学术大牛
