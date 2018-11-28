@@ -138,6 +138,10 @@
 
 >>[捷通华声](https://baike.baidu.com/item/%E6%8D%B7%E9%80%9A%E5%8D%8E%E5%A3%B0/837707)<br>
 >>[开放平台](https://www.aicloud.com/dev/index/index)<br>
+>>[让AI更普惠，捷通华声获深创投等亿元投资](https://www.iyiou.com/p/82034.html)<br>
+
+
+
 
 # 学术大牛
 >>[汤晓鸥：商汤科技创始人](https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa)<br>
