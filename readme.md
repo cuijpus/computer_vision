@@ -102,6 +102,15 @@
     语音识别： 将录音转为文字。目前在线识别支持普通话、英文、粤语和四川话。<br>
     语义理解： 将语音识别出的文字，进行分词及找出意图。<br>
 
+[思必驰|专注人性化的智能语音交互技术](http://www.aispeech.com/)<br>
+专注智能硬件的自然语言交互.<br>
+>>[苏州思必驰信息科技有限公司](https://baike.baidu.com/item/%E8%8B%8F%E5%B7%9E%E6%80%9D%E5%BF%85%E9%A9%B0%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/9357898?fr=aladdin)<br>
+>>[产品](http://www.aispeech.com/index.php?m=content&c=index&a=lists&catid=26)<br>
+>>用在车载、智能家居、机器人等方向；它有完整地产品(软硬件一体化解决方案)；和科大讯飞错位竞争，科大更多提供软件方案，可看见的落地不多！<br>
+>>[DUI平台](https://www.dui.ai/)<br>
+2017年9月7日，DUI平台在北京正式发布。<br>
+
+
 
 # 学术大牛
 >>[汤晓鸥：商汤科技创始人](https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa)<br>
