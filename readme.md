@@ -131,7 +131,7 @@
 >>[北京云知声信息技术有限公司](https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%91%E7%9F%A5%E5%A3%B0%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/5876260?fr=aladdin)<br>
 >>[云端芯生态](http://www.unisound.com/assets/img/index/index-cloud.svg)<br>
 >>[开放平台](http://dev.hivoice.cn/)<br>
-
+>>[「云知声」官方宣布完成6亿元C+轮融资，预计2019年营收过5亿](https://baijiahao.baidu.com/s?id=1606371399245615212&wfr=spider&for=pc)<br>
 
 # 学术大牛
 >>[汤晓鸥：商汤科技创始人](https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa)<br>
