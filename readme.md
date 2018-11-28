@@ -104,12 +104,14 @@
 
 [思必驰|专注人性化的智能语音交互技术](http://www.aispeech.com/)<br>
 专注智能硬件的自然语言交互.<br>
+近两年思必驰市场领域拓展较快，其中车载后装市场占有率第一，在智能车载后装市场占有率约达60%，智能后视镜领域达70%，智能HUD领域达80%。同时，在智能家居和机器人领域已经取得了比较广泛的合作。数亿用户通过思必驰自然语言交互，实现与智能家居、车载、智能机器人等终端的互动交流。 <br>
+
 >>[苏州思必驰信息科技有限公司](https://baike.baidu.com/item/%E8%8B%8F%E5%B7%9E%E6%80%9D%E5%BF%85%E9%A9%B0%E4%BF%A1%E6%81%AF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/9357898?fr=aladdin)<br>
 >>[产品](http://www.aispeech.com/index.php?m=content&c=index&a=lists&catid=26)<br>
 >>用在车载、智能家居、机器人等方向；它有完整地产品(软硬件一体化解决方案)；和科大讯飞错位竞争，科大更多提供软件方案，可看见的落地不多！<br>
 >>[DUI平台](https://www.dui.ai/)<br>
 2017年9月7日，DUI平台在北京正式发布。<br>
-
+2017.8.27 [思必驰-上海交大人工智能研究院在苏揭牌](http://www.aispeech.com/index.php?m=content&c=index&a=show&catid=22&id=263)<br>
 
 
 # 学术大牛
