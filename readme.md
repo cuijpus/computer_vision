@@ -93,10 +93,14 @@
 >>[科大讯飞股份有限公司](https://baike.baidu.com/item/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/15080951?fr=aladdin)<br>
 >>[语音引擎](http://www.iflytek.com/audioengine/index.html)<br>
 >>语音合成引擎；语音识别引擎；声纹识别引擎；开放平台。<br>
->>[讯飞开发平台](https://www.xfyun.cn/)<br> 
+>>[讯飞开放平台](https://www.xfyun.cn/)<br> 
 >>产品分类:语音识别|语音合成|语音唤醒|语音转写|人脸识别|更多》<br>
 >>更多产品:文字识别|图像识别|人脸识别|声纹识别|更多产品|更多》<br>
 
+[百度语音开放平台](http://ai.baidu.com/tech/speech)<br>
+语音识别Android SDK 功能 主要分为语音识别 及 语义理解 <br>
+    语音识别： 将录音转为文字。目前在线识别支持普通话、英文、粤语和四川话。<br>
+    语义理解： 将语音识别出的文字，进行分词及找出意图。<br>
 
 
 # 学术大牛
