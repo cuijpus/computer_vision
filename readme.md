@@ -133,6 +133,12 @@
 >>[开放平台](http://dev.hivoice.cn/)<br>
 >>[「云知声」官方宣布完成6亿元C+轮融资，预计2019年营收过5亿](https://baijiahao.baidu.com/s?id=1606371399245615212&wfr=spider&for=pc)<br>
 
+[捷通华声](http://www.sinovoice.com/)<br>
+捷通华声成立于2000年， 是一家专注于智能语音、智能图像、生物特征识别、智能语义等全方位人工智能技术研究与应用， 致力于让机器“能说会听、能写会看、能辨音会认人、能思考会判断” 的高新技术企业。 <br>
+
+>>[捷通华声](https://baike.baidu.com/item/%E6%8D%B7%E9%80%9A%E5%8D%8E%E5%A3%B0/837707)<br>
+>>[开放平台](https://www.aicloud.com/dev/index/index)<br>
+
 # 学术大牛
 >>[汤晓鸥：商汤科技创始人](https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa)<br>
 >>[徐立:商汤科技联合创始人、CEO](https://baike.baidu.com/item/%E5%BE%90%E7%AB%8B/22031892?fr=aladdin)<br>
