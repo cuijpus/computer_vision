@@ -152,3 +152,8 @@
 [10本计算机视觉必读经典图书，入门篇 + 提升篇](https://baijiahao.baidu.com/s?id=1591719485603660758&wfr=spider&for=pc)<br>
 [入门计算机视觉](http://baijiahao.baidu.com/s?id=1585312897491142760&wfr=spider&for=pc)<br>
 [计算机图像（视觉）处理培训](http://www.zpedu.com/JQActives298.html)<br>
+
+
+# 数据集
+[深度学习图像标注工具汇总](https://yq.aliyun.com/wenji/252379)<br>
+[NLP+VS︱深度学习数据集标注工具、图像语料数据库、实验室搜索ing...](https://blog.csdn.net/mengfanzhong/article/details/80638226)<br>
