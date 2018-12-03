@@ -85,6 +85,19 @@
 >>[商汤科技VS旷视科技VS依图科技](https://www.jianshu.com/p/b132bdd9dff1)<br>
 >>[旷视、商汤、格灵深瞳……他们曾这样熬过了AI寒冬](http://news.yzz.cn/eyes/text/201709-1203055.shtml)<br>
 
+# 开放平台
+AI人脸识别开放：
+http://ai.arcsoft.com.cn/product/arcface.html
+
+人证核验：
+http://ai.arcsoft.com.cn/solution/verification.html
+
+百度也开放人脸检测能力：
+http://ai.baidu.com/tech/face/offline-sdk
+
+旷视也开放，不过会收费：
+https://www.faceplusplus.com.cn/face-detection/
+
 # 应用分类（人、物、景、行为）
 [盘点机器视觉九大应用场景] (https://www.sohu.com/a/205697765_793144)<br>
 ## 人脸识别
