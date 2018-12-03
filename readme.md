@@ -85,6 +85,11 @@
 >>[商汤科技VS旷视科技VS依图科技](https://www.jianshu.com/p/b132bdd9dff1)<br>
 >>[旷视、商汤、格灵深瞳……他们曾这样熬过了AI寒冬](http://news.yzz.cn/eyes/text/201709-1203055.shtml)<br>
 
+# 应用分类（人、物、景、行为）
+## 人脸识别
+## 物体识别
+## 场景识别
+## 行为分析
 
 # 学术大牛
 >>[汤晓鸥：商汤科技创始人](https://baike.baidu.com/item/%E6%B1%A4%E6%99%93%E9%B8%A5/7200225?fr=kg_qa)<br>
