@@ -99,7 +99,7 @@ http://ai.baidu.com/tech/face/offline-sdk
 https://www.faceplusplus.com.cn/face-detection/
 
 # 应用分类（人、物、景、行为）
-[盘点机器视觉九大应用场景] (https://www.sohu.com/a/205697765_793144)<br>
+[盘点机器视觉九大应用场景](https://www.sohu.com/a/205697765_793144)<br>
 ## 人脸识别
 ## 物体识别
 ## 场景识别
